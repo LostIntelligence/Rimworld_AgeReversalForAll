@@ -1,0 +1,5 @@
+<LanguageData>
+  <AutoAgeReverseForAllLabel>Auto age reversal</AutoAgeReverseForAllLabel>
+  <AutoAgeReverseForAllDesc>Automatically enter this biosculpter pod when age reversal is available.</AutoAgeReverseForAllDesc>
+  <AutoAgeReverseForAllNext>Next age reversal: {0}</AutoAgeReverseForAllNext>
+</LanguageData>
